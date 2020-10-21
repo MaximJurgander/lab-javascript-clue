@@ -75,7 +75,7 @@ name: pistol --- weight: 20<br>
 name: Dining Room<br>
 name: Conservatory<br>
 name: Kitchen<br>
-name: Study<br>
+name: **Study**<br>
 name: Library<br>
 name: Billiard Room<br>
 name: Lounge<br>
@@ -86,4 +86,4 @@ name: Living Room<br>
 name: Observatory<br>
 name: Theater<br>
 name: Guest House<br>
-name: Patio<br>
+name: Patio<br>\*\*\*\*
